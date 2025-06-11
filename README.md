@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mina-wips
 - 👀 I’m interested in artifical inteligance, science and coding
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me : mutm.ganiyu.08@gmail.com
 
 <!---
